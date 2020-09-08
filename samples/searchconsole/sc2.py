@@ -36,6 +36,7 @@ Sample usage:
 """
 from __future__ import print_function
 
+import io
 import argparse
 import sys
 from googleapiclient import sample_tools
