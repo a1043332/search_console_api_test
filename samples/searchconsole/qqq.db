@@ -1,4 +1,0 @@
-insert into query (SCKey,Click,Impressions,CTR,Position) values('250,000 devices produce a json device status every 10 seconds. how do you capture event data for outlier time series analysis?',1,0,0,10),('xvalueformatstring',1,0,0,8);
-insert into page (SCKey,Click,Impressions,CTR,Position) values('http://exam.kangbao.info/getItems.php?exam=dataengineer',2,0,0,6.5),('http://exam.kangbao.info/getItems.php?exam=dataengineer&name=',7,0,0,21.285714285714285),('http://exam.kangbao.info/getResult.php?exam=dataengineer',2,0,0,7);
-insert into country (SCKey,Click,Impressions,CTR,Position) values('aus',2,0,0,6.5),('ind',1,0,0,10),('mar',1,0,0,10),('pol',1,0,0,6),('rou',2,0,0,10),('usa',2,0,0,51.5),('vnm',2,0,0,7);
-insert into device (SCKey,Click,Impressions,CTR,Position) values('DESKTOP',11,0,0,16);
